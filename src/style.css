@@ -1,5 +1,11 @@
-h1 {
+
+div {
     color: brown;
-    background-color: black;
+    background-color: #ffffff;
     max-width: 1200px;
+}
+span {
+    color: red;
+    border: 1px solid blue;
+
 }
